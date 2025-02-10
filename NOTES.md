@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document explains the functions in the `encoding.sol` contract, which demonstrates various encoding, decoding, and data handling methods in Solidity.
+This document explains the functions in the Advanced EVM contract, demonstrating various encoding, decoding, and data handling methods in Solidity.
 
 ## Function Explanations
 
